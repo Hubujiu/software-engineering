@@ -1,0 +1,13 @@
+.atlas/
+node_modules/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+dist/
+*.log
+*.sqlite*
+.env
+.env.*
+playwright-report/
+test-results/
